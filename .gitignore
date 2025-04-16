@@ -1,2 +1,2 @@
-# Ignore all zip files
-*.zip
+datas
+.gitignore
